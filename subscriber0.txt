@@ -1,0 +1,17 @@
+sleep 5
+get 0
+sleep 5
+get 0
+sleep 5
+get 0
+sleep 5
+get 0
+sleep 5
+get 0
+sleep 5
+get 1
+sleep 5
+get 0
+sleep 5
+get 0
+stop
